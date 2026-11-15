@@ -55,3 +55,11 @@ O código usa o endereço I2C `0x27`. Se o seu módulo usar outro endereço, alt
 - Exibe o texto por 3 segundos e os créditos por 2 segundos.
 
 A tela tem 16 colunas; textos maiores podem não caber integralmente na linha.
+
+## 🚀 Próximos projetos
+
+Outros projetos de sistemas embarcados serão postados em breve, com níveis de complexidade maiores.
+
+---
+
+## 👤 Autor: Bruno Maker
